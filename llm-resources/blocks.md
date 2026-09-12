@@ -1,7 +1,7 @@
 LLM-friendly logic block descriptions for Approximately Up.  
-Ping me in the Approximately Up Discord (@nthn.a) if you have ideas to make this better.
-Credit to @gs1738 and other contributors for improvements.
-Last updated: 05-09-2026  
+Ping me in the Approximately Up Discord (@nthn.a) if you have ideas to make this better.  
+Credit to @gs1738 and other contributors for improvements.  
+Last updated: 12-09-2026  
 Copy raw markdown under here for proper usage.  
 
 ---
