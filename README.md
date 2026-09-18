@@ -11,6 +11,7 @@ Commmunity: [Discord](https://discord.gg/approximatelyup), [Steam Community Hub]
 
 ## Tools
 - [Thrust Nominal](https://thrustnominal.com/) - web app for designing logic block schematics
+- [Hexicube's Fuel Ratio Calculator](https://hexicube.github.io/ApproxUp/fuel.html) - ideal fuel ratio calculator for different throttle inputs
 
 ## LLM Resources
 - [blocks.md](./llm-resources/blocks.md) - various logic and I/O blocks in plain for LLM reasoning/help/verification.
