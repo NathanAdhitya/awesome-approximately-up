@@ -6,6 +6,9 @@ This repository is unofficial and is not directly affiliated nor sponsored by th
 Check the game out: [Steam](https://store.steampowered.com/app/3904850/Approximately_Up/), [SteamDB](https://steamdb.info/app/3904850/)  
 Commmunity: [Discord](https://discord.gg/approximatelyup), [Steam Community Hub](https://steamcommunity.com/app/3904850)
 
+## Guides
+- [approximatelyup.site](https://approximatelyup.site/) - Approximately Up Guide & Reference
+
 ## Tools
 - [Thrust Nominal](https://thrustnominal.com/) - web app for designing logic block schematics
 
